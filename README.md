@@ -28,15 +28,4 @@ As a versatile software developer, I have gained experience in numerous programm
 * Skilled in testing and quality assurance using Chai, Jest, and Sinon
 * Easily adaptable to new programming languages and technologies
 
-<br/>
-
-<table>
-	<thead>
-		<th>
-			<img align="center" src="https://streak-stats.demolab.com/?user=Esteban-V&hide_border=true&mode=weekly"style="max-width: 100%; width: 100%;">
-		</th>
-		<th>
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban-V&theme=buefy&hide_border=true" style="width: 100%; max-width: 100%;">
-		</th>
-	</thead>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Esteban-V&hide_border=true&mode=weekly)](https://git.io/streak-stats)
