@@ -20,7 +20,7 @@ As a versatile software developer, I have gained experience in numerous programm
 ### 🔑 Key Skills:
 
 * Knowledge on JavaScript, TypeScript, Python, Java and PHP
-* Strong experience with frontend frameworks such as React.js and Next.js
+* Strong experience with frontend frameworks such as React.js, Angular and Next.js
 * Familiarity with backend technologies including Node.js, Nest.js, and Redis
 * Comfortable working with CSS, SASS, and Styled Components for design and styling
 * Experienced in using APIs and data querying tools, including Axios, GraphQL, and Prisma
