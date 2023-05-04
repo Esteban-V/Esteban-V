@@ -6,6 +6,8 @@
 
 🎓 Computer Science & Engineering student at UTN (Universidad Tecnologíca Nacional)
 
+👨‍💼 [LinkedIn](https://www.linkedin.com/in/esteban-viera/) 
+
 ## 🏅 Web3 Achievements
 
 * 🦄 **Talent House Scholar to Devcon VI** (Q4 2022), where I learned a ton about the Ethereum ecosystem and boosted my career as a web3 developer.
