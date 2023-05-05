@@ -20,7 +20,7 @@ As a versatile software developer, I have gained experience in numerous programm
 * Skilled in testing and quality assurance using Chai, Jest, and Sinon
 * Easily adaptable to new programming languages and technologies
 
-## 🏅 Web3 Achievements
+## 🏅 Some Web3 Achievements
 
 * 🦄 **Talent House Scholar to Devcon VI** (Q4 2022), where I learned a ton about the Ethereum ecosystem and boosted my career as a web3 developer.
 * 🥈 **Won Metamask and Polygon prizes on ETHBogota hackathon** (October 2022), where we built **myIPFS**, a privacy solution for distribuited storages. 	(https://ethglobal.com/showcase/mypfs-8vrm0)
