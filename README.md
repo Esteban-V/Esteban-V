@@ -1,4 +1,4 @@
-# 👋 gm traveler
+# 👋 Hey there!
 
 ## ℹ️ About me
 
@@ -6,14 +6,12 @@
 
 🎓 Computer Science & Engineering student at UTN (Universidad Tecnologíca Nacional)
 
-👨‍💼 [LinkedIn](https://www.linkedin.com/in/esteban-viera/) 
-
 ## 🏅 Web3 Achievements
 
 * 🦄 **Talent House Scholar to Devcon VI** (Q4 2022), where I learned a ton about the Ethereum ecosystem and boosted my career as a web3 developer.
 * 🥈 **Won Metamask and Polygon prizes on ETHBogota hackathon** (October 2022), where we built **myIPFS**, a privacy solution for distribuited storages. 	(https://ethglobal.com/showcase/mypfs-8vrm0)
 * 🥇 **1st place at Bear Builders hackathon** (September 2022),  where we built Dēbita, a P2P Debt Marketplace Protocol.
-* 💻 **Participated on ETHOnline** (September 2022), where we built Looking for Group, a team formation and on-chain money distribution dapp. (https://ethglobal.com/showcase/looking-for-group-enmkc)
+*  **Participated on ETHOnline** (September 2022), where we built Looking for Group, a team formation and on-chain money distribution dapp. (https://ethglobal.com/showcase/looking-for-group-enmkc)
 
 
 ## ⌨️ Tech Stack
